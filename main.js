@@ -18,8 +18,6 @@ function decrementCounter()
 }
 
 
-
-
 var addBtn = document.getElementById('inc');
 addBtn.addEventListener('click', incrementCounter);
 
