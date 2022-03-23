@@ -1,2 +1,2 @@
 # web
-Implementation of click counter on vanilla javascript
+Implementation of click counter on vanilla javascript and jquery
